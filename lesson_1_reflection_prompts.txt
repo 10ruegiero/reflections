@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Facilite la recherche au sein d'un fichier long
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Suivi du versionnement et de la progression. Retour en arrière possible.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    On peut rater une étape de sauvegarde à un moment donné où finalement on l'aurait souhaité
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Pour permettre la structuration de projets et la gestion des dépendances
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Encore à apprendre
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Plus de peur de casser
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   Pour un projet personnel, Trading Bot par exemple
